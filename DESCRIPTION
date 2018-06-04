@@ -1,0 +1,12 @@
+Package: greatcircle
+Type: Package
+Title: Calculates great circle stuff
+Version: 0.1.0
+Author: Alexander <ahelman@princeton.edu>
+Maintainer: Alexander <ahelman@princeton.edu>
+Description: Contains several functions relating to great circles.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
